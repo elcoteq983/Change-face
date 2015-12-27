@@ -1,0 +1,219 @@
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\KinectFaceTracking.exe.config
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\KinectFaceTracking.exe
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\KinectFaceTracking.pdb
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\MainWindow.baml
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\MainWindow.g.cs
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\App.g.cs
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.g.resources
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.csproj.GenerateResource.Cache
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.exe
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.pdb
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\FaceTrackData.dll
+E:\Test\KinectDemo\KinectFaceTracking\bin\Debug\FaceTrackLib.dll
+E:\Test\KinectDemo\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.csprojResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\KinectFaceTracking.exe.config
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\FaceTrackData.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\FaceTrackLib.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\KinectFaceTracking\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\KinectFaceTracking.exe.config
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\FaceTrackData.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\FaceTrackLib.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\FaceImage.baml
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\FaceImage.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\表情识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\FaceTrackData.dll
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\FaceTrackLib.dll
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\KinectFaceTracking.exe
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\KinectFaceTracking.pdb
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\360data\重要数据\桌面\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\FaceImage.baml
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\FaceImage.g.cs
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\桌面\人脸识别\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\人脸识别\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+E:\人脸识别\人脸识别\bin\Debug\FaceTrackData.dll
+E:\人脸识别\人脸识别\bin\Debug\FaceTrackLib.dll
+E:\人脸识别\人脸识别\bin\Debug\KinectFaceTracking.exe
+E:\人脸识别\人脸识别\bin\Debug\KinectFaceTracking.pdb
+E:\人脸识别\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\人脸识别\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\人脸识别\人脸识别\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\人脸识别\人脸识别\obj\x86\Debug\FaceImage.baml
+E:\人脸识别\人脸识别\obj\x86\Debug\MainWindow.g.cs
+E:\人脸识别\人脸识别\obj\x86\Debug\FaceImage.g.cs
+E:\人脸识别\人脸识别\obj\x86\Debug\App.g.cs
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+E:\人脸识别\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+E:\人脸识别\人脸识别\obj\x86\Debug\MainWindow.baml
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+E:\人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+E:\人脸识别\人脸识别\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\人脸识别\人脸识别\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\FaceTrackData.dll
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\FaceTrackLib.dll
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\KinectFaceTracking.exe
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\KinectFaceTracking.pdb
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\FaceImage.baml
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\FaceImage.g.cs
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+C:\Users\Alex\Desktop\人脸识别2\人脸识别\obj\x86\Debug\KinectFaceTracking.csproj.GenerateResource.Cache
+E:\其他任务\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+E:\其他任务\人脸识别\bin\Debug\FaceTrackData.dll
+E:\其他任务\人脸识别\bin\Debug\FaceTrackLib.dll
+E:\其他任务\人脸识别\bin\Debug\KinectFaceTracking.exe
+E:\其他任务\人脸识别\bin\Debug\KinectFaceTracking.pdb
+E:\其他任务\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\其他任务\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\其他任务\人脸识别\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\其他任务\人脸识别\obj\x86\Debug\FaceImage.baml
+E:\其他任务\人脸识别\obj\x86\Debug\MainWindow.g.cs
+E:\其他任务\人脸识别\obj\x86\Debug\FaceImage.g.cs
+E:\其他任务\人脸识别\obj\x86\Debug\App.g.cs
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+E:\其他任务\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+E:\其他任务\人脸识别\obj\x86\Debug\MainWindow.baml
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+E:\其他任务\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+E:\其他任务\人脸识别\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\其他任务\人脸识别\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\KinectFaceTracking.exe.config
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\FaceTrackData.dll
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\FaceTrackLib.dll
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\KinectFaceTracking.exe
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\KinectFaceTracking.pdb
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\FaceImage.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\MainWindow.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\FaceImage.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\App.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\MainWindow.baml
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking.g.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\360data\重要数据\我的文档\Tencent Files\646680863\FileRecv\人脸识别--最终修改版\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\FaceTrackData.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\FaceTrackLib.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\KinectFaceTracking.exe
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\KinectFaceTracking.pdb
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\FaceImage.baml
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\FaceImage.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\App.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\MainWindow.baml
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangxuewei\Desktop\kinect\kinect人脸识别\人脸识别\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\KinectFaceTracking.exe.config
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.exe
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.pdb
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\FaceTrackData.dll
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\FaceTrackLib.dll
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\KinectFaceTracking.exe
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\KinectFaceTracking.pdb
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\FaceImage.baml
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\FaceImage.g.cs
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking_Content.g.cs
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.cache
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking_MarkupCompile.lref
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.g.resources
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.Properties.Resources.resources
+C:\Users\Alex\Desktop\人脸识别--最终修改版\人脸识别\obj\x86\Debug\KinectFaceTracking.csproj.GenerateResource.Cache
